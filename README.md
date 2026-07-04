@@ -5,6 +5,8 @@
 
 **▶ 在线体验:[actorlab.pages.dev](https://actorlab.pages.dev/)**
 
+![ActorLab](https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/3d-characters/index.png)
+
 引擎持有场景状态并向 UI 推送不可变快照,面板从快照渲染、再通过方法调用驱动引擎——
 一套所见即所得的导演编排流程。
 
